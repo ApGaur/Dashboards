@@ -1,5 +1,3 @@
-Here's an updated version of the README.md file that includes a recommendation section:
-
 # Coffee Sales Dashboard
 
 ## Problem Statement
